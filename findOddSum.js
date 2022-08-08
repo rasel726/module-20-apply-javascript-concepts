@@ -27,4 +27,5 @@ const myNumbers = [12, 65, 45, 78, 32, 45, 91];
 const oddNumbers = getOddNumbersOfAnArray(myNumbers);
 console.log(oddNumbers);
 const oddNumberSum = getSumOfAnArray(oddNumbers)
+
 getSumOfAnArray('odd number sum', oddNumberSum);
